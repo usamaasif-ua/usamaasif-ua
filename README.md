@@ -112,7 +112,7 @@ MLOps             ███████████████████     
 
 4. **NLP-Powered Customer Service Chatbot**
    - Developed an advanced chatbot using the latest NLP techniques
-   - Technologies: GPT-3, RASA, Python, Docker
+   - Technologies: GPT-4, RASA, Python, Docker
    - Outcome: 40% reduction in customer service response time, 95% customer satisfaction rate
 
 5. **Predictive Maintenance with IoT and AI**
