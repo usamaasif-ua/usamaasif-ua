@@ -54,7 +54,7 @@ Jupyter Notebook, Git, MATLAB, VS Code, PyCharm
 | LLM-based Applications:           10+    |
 | Generative AI Projects:           15+    |
 | ML Pipelines Optimized:           25+    |
-| Datasets Analyzed:                100+   |     |
+| Datasets Analyzed:                100+   |     
 +------------------------------------------+
 ```
 
