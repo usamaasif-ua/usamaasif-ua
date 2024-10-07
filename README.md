@@ -62,19 +62,19 @@ Jupyter Notebook, Git, MATLAB, VS Code, PyCharm
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│ 🤖 Developed State-of-the-Art LLM for Medical Diagnosis │
+│ 🤖 Developed State-of-the-Art LLM for Medical Diagnosis 
 │    • Achieved 97% accuracy in preliminary trials        │
 │                                                         │
-│ 🎨 Created Generative AI Model for Drug Discovery       │
+│ 🎨 Created Generative AI Model for Drug Discovery       
 │    • Reduced initial screening time by 60%              │
 │                                                         │
-│ 📈 Implemented Advanced Time Series Forecasting         │
+│ 📈 Implemented Advanced Time Series Forecasting         
 │    • Improved forecast accuracy by 40%                  │
 │                                                         │
-│ 🔍 Built Explainable AI System for Financial Services   │
+│ 🔍 Built Explainable AI System for Financial Services   
 │    • Increased model interpretability by 85%            │
 │                                                         │
-│ 📊 Optimized Data Processing with Distributed Computing │
+│ 📊 Optimized Data Processing with Distributed Computing 
 │    • Reduced processing time by 75% for big data tasks  │
 └─────────────────────────────────────────────────────────┘
 ```
