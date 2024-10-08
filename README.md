@@ -3,19 +3,19 @@
 
 Hello! I'm Usama, a seasoned data scientist with deep expertise in cutting-edge AI technologies. My passion lies in leveraging advanced machine learning techniques, particularly Generative AI and Large Language Models (LLMs), to solve complex problems and drive innovation.
 
-### 🔬 Current Role
+### Current Role
 Analyst at Pakistan Kidney and Liver Institute and Research Center (PKLI & RC)
 
-### 🎓 Education
+### Education
 Bachelor of Science in Computer Science, Lahore Garrison University
 
-### 💼 Professional Journey
+### Professional Journey
 - **Analyst** at PKLI & RC (Current)
 - **Data Scientist** at Quick Share Marketing
 - **Assistant Lecturer** at Lahore Garrison University
 - **Front-End Developer** at HATZS DIMENSIONS
 
-### 🛠️ Technical Expertise
+### Technical Expertise 
 
 #### AI and Machine Learning
 - **Generative AI:** GANs, VAEs, Diffusion Models
@@ -43,7 +43,7 @@ MongoDB, MySQL, PostgreSQL, Microsoft SQL Server, Oracle
 #### Development Tools
 Jupyter Notebook, Git, MATLAB, VS Code, PyCharm
 
-### 📊 AI and Data Science Impact
+### AI and Data Science Impact
 
 ```
 +------------------------------------------+
@@ -58,28 +58,28 @@ Jupyter Notebook, Git, MATLAB, VS Code, PyCharm
 +------------------------------------------+
 ```
 
-### 🏆 Key Achievements
+### Key Achievements
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│ 🤖 Developed State-of-the-Art LLM for Medical Diagnosis 
+│ Developed State-of-the-Art LLM for Medical Diagnosis 
 │    • Achieved 97% accuracy in preliminary trials        │
 │                                                         │
-│ 🎨 Created Generative AI Model for Drug Discovery       
+│ Created Generative AI Model for Drug Discovery       
 │    • Reduced initial screening time by 60%              │
 │                                                         │
-│ 📈 Implemented Advanced Time Series Forecasting         
+│ Implemented Advanced Time Series Forecasting         
 │    • Improved forecast accuracy by 40%                  │
 │                                                         │
-│ 🔍 Built Explainable AI System for Financial Services   
+│ Built Explainable AI System for Financial Services   
 │    • Increased model interpretability by 85%            │
 │                                                         │
-│ 📊 Optimized Data Processing with Distributed Computing 
+│ Optimized Data Processing with Distributed Computing 
 │    • Reduced processing time by 75% for big data tasks  │
 └─────────────────────────────────────────────────────────┘
 ```
 
-### 🧠 Advanced AI Skills Proficiency
+### Advanced AI Skills Proficiency
 
 ```
 Generative AI     ████████████████████████ 98%
@@ -93,7 +93,7 @@ Cloud AI Services ████████████████████  
 MLOps             ███████████████████      80%
 ```
 
-### 🚀 Featured AI Projects
+### Featured AI Projects
 
 1. **Medical Diagnosis LLM**
    - Developed a large language model for assisting in medical diagnoses
@@ -120,7 +120,7 @@ MLOps             ███████████████████     
    - Technologies: Time Series Analysis, IoT sensors, Apache Kafka, Spark Streaming
    - Outcome: 35% reduction in unplanned downtime, saving millions in potential losses
 
-### 🤝 Let's Connect!
+### Let's Connect!
 - LinkedIn: [www.linkedin.com/in/usamaasif-ua](https://www.linkedin.com/in/usamaasif-ua)
 - Email: usamaasif353@gmail.com
 - GitHub: [github.com/usamaasif-ua](https://github.com/usamaasif-ua)
