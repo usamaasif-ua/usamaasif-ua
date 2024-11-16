@@ -11,9 +11,9 @@ Bachelor of Science in Computer Science, Lahore Garrison University
 
 ### Professional Journey
 - **Analyst** at PKLI & RC (Current)
-- **Data Scientist** at Quick Share Marketing
 - **Assistant Lecturer** at Lahore Garrison University
 - **Front-End Developer** at HATZS DIMENSIONS
+- **Data Scientist** at Quick Share Marketing
 
 ### Technical Expertise 
 
