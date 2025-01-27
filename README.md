@@ -1,7 +1,7 @@
 # Usama Asif
 ## Data Scientist | Expert in Generative AI, LLMs, Machine Learning, Statistical Modeling, Artificial Intelligence, and Data Analysis
 
-Hello! I'm Usama, a seasoned data scientist with deep expertise in cutting-edge AI technologies. My passion lies in leveraging advanced machine learning techniques, particularly Generative AI and Large Language Models (LLMs), to solve complex problems and drive innovation.
+Hello! I'm Usama Asif, a seasoned data scientist with deep expertise in cutting-edge AI technologies. My passion lies in leveraging advanced machine learning techniques, particularly Generative AI and Large Language Models (LLMs), to solve complex problems and drive innovation.
 
 ### Current Role
 Analyst at Pakistan Kidney and Liver Institute and Research Center (PKLI & RC)
