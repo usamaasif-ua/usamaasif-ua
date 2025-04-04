@@ -122,7 +122,7 @@ MLOps             ███████████████████     
 
 ### Let's Connect!
 - LinkedIn: [www.linkedin.com/in/usamaasif-ua](https://www.linkedin.com/in/usamaasif-ua)
-- Email: usamaasif353@gmail.com
+- Email: usamaasif_ua@yahoo.com
 
 ---
 
